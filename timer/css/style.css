@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-image: url('../images/03.jpg');
+    background-image: cover;
+    background-repeat: no-repeat;
+
+}
+h1 {
+    font-size: 90px;
+    color: rgb(247, 10, 215);
+}
+h2 {
+    font-size: 50px;
+    color: rgb(247, 10, 215);
+}
+h3 {
+    font-size: 30px;
+    color: rgb(247, 10, 215);
+}

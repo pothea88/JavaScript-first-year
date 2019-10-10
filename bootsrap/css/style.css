@@ -1,0 +1,19 @@
+.btn-red {
+    background: rgb(241, 11, 11);
+}
+.btn1 {
+    background: rgb(230, 90, 188);
+}
+.bd {
+    background: rgb(231, 203, 77);
+}
+.card {
+    margin-top: 50px;
+}
+table {
+    margin-top: 60px;
+    text-align: center;
+}
+.main {
+    margin-top: 10px;
+}
